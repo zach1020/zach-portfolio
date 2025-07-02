@@ -36,7 +36,7 @@ const MusicEmbed = () => {
           rel="noopener noreferrer"
           className="hover:underline"
         >
-          Someday We'll Live The Good Life (Album Version)
+          Someday We&apos;ll Live The Good Life (Album Version)
         </a>
       </div>
     </div>        
