@@ -1,0 +1,21 @@
+.aboutContainer {
+    display: flex;
+    flex-direction: row;
+    padding-top: 50px;
+}
+
+.item-large {
+    flex-grow: 2;
+}
+
+.item-small {
+    flex-grow: 1;
+}
+
+.aboutHeader {
+    font-size: 54px;
+}
+
+.aboutBlurb {
+    font-size: 45px;
+}

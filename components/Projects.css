@@ -1,0 +1,11 @@
+.projectsHeader {
+    padding-top: 30px;
+    font-size: 54px;
+}
+
+.projectsContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    padding-top: 30px;
+}

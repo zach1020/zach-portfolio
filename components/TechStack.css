@@ -1,0 +1,20 @@
+.tsHeader {
+    font-size: 54px;
+}
+
+.tsContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 15px;
+}
+
+.tsBadge {
+    width: 200px;
+    height: 100px;
+    border: solid rgb(0, 255, 0);
+    border-radius: 30%;
+    color: rgb(255, 0, 255);
+    font-size: 30px;
+    text-align: center;
+}
